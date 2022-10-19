@@ -1,16 +1,16 @@
 # Найдите корни квадратного уравнения Ax2 + Bx + C = 0 с помощью формул нахождения корней квадратного уравнения.
 
 import math
- 
+
 print("Введите коэффициенты для уравнения")
 print("ax^2 + bx + c = 0:")
 a = float(input("a = "))
 b = float(input("b = "))
 c = float(input("c = "))
- 
+
 discr = b ** 2 - 4 * a * c
 print("Дискриминант D = %.2f" % discr)
- 
+
 if discr > 0:
     x1 = (-b + math.sqrt(discr)) / (2 * a)
     x2 = (-b - math.sqrt(discr)) / (2 * a)
