@@ -30,7 +30,7 @@
 Поиск контакта"
 Поиск контакта
 ---
-![Dell_people](https://github.com/MamaevEA/Telebot_ERP/blob/main/Picturs/Dell_people.png)
+![Dell_people](https://github.com/APanRU/Begin_Python/blob/master/Homework/Homework_9/Task_1/%D0%A3%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.png)
 Удаление контакта"
 Удаление контакта
 ---
