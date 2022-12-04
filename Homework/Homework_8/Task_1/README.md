@@ -9,7 +9,7 @@
 5. Первый ход определяется случайным образом;
 6. Запуск игры - команда /start
 
-![Стартовый экран](Begin_Python\Homework\Homework_8\Task_1\Стартовый экран.jpg)
+![Стартовый экран](https://github.com/APanRU/Begin_Python/blob/master/Homework/Homework_8/Task_1/%D0%A1%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.jpg)
 
 Координаты полей задаются цифрами через пробел от 0 (верхнее левое) до 2 (нижнее правое)
 Пример: 0 0 
@@ -17,12 +17,12 @@
         2 2
 Игроки ходят по очереди.
 
-![Ходы](Begin_Python\Homework\Homework_8\Task_1\Пример хода.jpg)
+![Ходы](https://github.com/APanRU/Begin_Python/blob/master/Homework/Homework_8/Task_1/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D1%85%D0%BE%D0%B4%D0%B0.jpg)
 
 Бот не даст пойти на занятое поле.
 
-![Ход на занятое поле](Begin_Python\Homework\Homework_8\Task_1\Занято.jpg)
+![Ход на занятое поле](https://github.com/APanRU/Begin_Python/blob/master/Homework/Homework_8/Task_1/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%BE.jpg)
 
 Если кто-то соберет три знака в ряд, определится победителяь и будет предложена еще одна игра.
 
-![Завершение игры](Begin_Python\Homework\Homework_8\Task_1\Победа.jpg)
+![Завершение игры](https://github.com/APanRU/Begin_Python/blob/master/Homework/Homework_8/Task_1/%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B0.jpg)
