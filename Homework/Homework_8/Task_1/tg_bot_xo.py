@@ -2,7 +2,7 @@ import telebot
 import random, os
 
 
-API_TOKEN='5980688680:AAEBil6j3zHWB7uwOkMQS3DJuZ6oXaYsw2o'
+API_TOKEN='you_token'
 
 field = []
 field_count=[]
